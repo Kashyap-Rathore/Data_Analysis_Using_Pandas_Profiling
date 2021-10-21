@@ -7,4 +7,4 @@ How to use:
 2. Run the python file using command, python filename.py -> python data_analysis_using_pandas_profiling.py
 
 Output:
-1. html file will be generated with all the statistics
+1. html file will be generated with all the statistics.
